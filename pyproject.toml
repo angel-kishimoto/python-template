@@ -6,7 +6,6 @@ authors = ["angel-kishimoto"]
 
 [tool.poetry.dependencies]
 python = ">=3.6"
-dearpygui = "*"
 
 [tool.poetry.dev-dependencies]
 isort = "*"
